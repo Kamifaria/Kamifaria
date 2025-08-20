@@ -12,9 +12,6 @@
   responsividade e boas práticas de UI/UX.
   <br>
   <em>Crio interfaces interativas com efeito de digitação (“typewriter”) usando <strong>react-typist</strong>, com layout inspirado em máquina de escrever.</em>
-  <br><br>
-  <strong>Projetos recentes:</strong> landings dinâmicas para rede de franquias (criação automática por unidade,
-  campanhas com validade, captação de leads e layout responsivo).
 </p>
 
 
