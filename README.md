@@ -1,6 +1,22 @@
 <p align="center"><img width="80%"  src="./assets/logo-github-2.png" /></a></p>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development NodeJs to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a  <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">
+  Eu ❤️ resolver grandes desafios com tecnologia.
+  <br><br>
+  Sou <strong>Desenvolvedora Full Stack (Pleno)</strong> focada em produtos web.
+  <br><br>
+  <strong>Back-end:</strong> experiência com <strong>Node.js</strong> (APIs REST, integrações, autenticação) e
+  evolução em <strong>.NET</strong> — fortalecendo <strong>C# / ASP.NET Core</strong> para criação de APIs e serviços.
+  <br>
+  <strong>Front-end:</strong> <strong>React + TypeScript</strong>, componentização, <strong>styled-components</strong>,
+  responsividade e boas práticas de UI/UX.
+  <br>
+  <em>Crio interfaces interativas com efeito de digitação (“typewriter”) usando <strong>react-typist</strong>, com layout inspirado em máquina de escrever.</em>
+  <br><br>
+  <strong>Projetos recentes:</strong> landings dinâmicas para rede de franquias (criação automática por unidade,
+  campanhas com validade, captação de leads e layout responsivo).
+</p>
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Kamifaria&theme=radical&mode=weekly" />
