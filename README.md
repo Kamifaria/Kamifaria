@@ -8,7 +8,7 @@
   <strong>Back-end:</strong> experiência com <strong>Node.js</strong> (APIs REST, integrações, autenticação) e
   evolução em <strong>.NET</strong> — fortalecendo <strong>C# / ASP.NET Core</strong> para criação de APIs e serviços.
   <br>
-  <strong>Front-end:</strong> <strong>React + TypeScript</strong>, componentização, <strong>styled-components</strong>,
+  <strong>Front-end:</strong> <strong>React + Angular + TypeScript</strong>, componentização, <strong>styled-components</strong>,
   responsividade e boas práticas de UI/UX.
   <br>
   <em>Crio interfaces interativas com efeito de digitação (“typewriter”) usando <strong>react-typist</strong>, com layout inspirado em máquina de escrever.</em>
