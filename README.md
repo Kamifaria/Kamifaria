@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Saudações, viajante do código! Eu sou a Kami1 🧙‍♀️✨</strong>
   <br><br>
-  Desenvolvedora Full Stack (Pleno) e feiticeira dev em tempo integral.
+  Desenvolvedora Full Stack  e feiticeira dev em tempo integral.
   <br>
   Conjuro feitiços com <strong>.NET</strong> e lanço magias em <strong>React</strong>, <strong>Node.js</strong> e <strong>Angular</strong> — sempre em busca da performance lendária.
   <br><br>
